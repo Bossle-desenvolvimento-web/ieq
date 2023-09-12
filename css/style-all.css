@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+
+:root{/*colors*/
+       --color-a:#0D0D0D;
+       --color-b:#F2BD1D;
+       --color-c:#118EBF;
+       --color-d:#79328C;
+       --color-e:#F21D44;
+       --color-f:#BF0606;
+       --color-g:#BF6B04;
+       --color-h:#D98E04;
+       --color-i:#1B72BF;
+       --color-f:#8C0383;
+       --color-g:#838486;
+
+       /*fonts*/
+       --site-title:font-family: 'Anton', sans-serif;
+    
+
+       }
+
+
+*{margin: 0;
+   padding: 0;}
+
+
+.container{width: 90%;
+           height: auto;
+           background-color:#79328C;}
+
+
+.row{width: 100%;
+     height: auto;
+      background-color: yellow;
+       margin: auto;}
+
+  .col{margin-top: 10px;
+          margin-bottom: 10px;
+           background-color: blue;}
